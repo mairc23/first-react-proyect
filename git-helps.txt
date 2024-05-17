@@ -1,1 +1,16 @@
-un lugar para ayudar a un futuro ligado del proyecto con un repositorio en github
+Estos pasos son despues de crear una cuenta en GitHub y haber isntalado git.
+
+Para enlazar el usurio creado en GitHub en la app de git:
+    git config --global user.name "usuario"
+    git config --global user.email correo-usuario
+
+Suponiendo que ya se tiene un proyecto y un repositorio creado en github:
+    git remote add origin enlace-del-repositorio.git
+    git push -u origin master (si en la instalcion de git cambio el nombre master por otro remplazar)
+
+Si se quiere guardar los cambios del proyecto en el repositorio(commit):
+    git status
+    git add archivo -> si solo se cambio un archivo en especifico
+    git add . -> si se hizo cambio en varios archivos
+    git commit -m "detalles-del-cambio" 
+    git push -u origin master
