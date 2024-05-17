@@ -1,0 +1,18 @@
+Suponiendo que ya se tiene instalado una version de nodeJS crear e iniciar un nuevo proyecto en react:
+    npx create-react-app nombre
+    cd nombre
+    npm start
+
+para mas dudas ir al enlace:  https://create-react-app.dev/
+
+Para utilizar react en vs-code:
+
+En settings.json coocar estos cambios para activar emmet en proyectos de react:
+"emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+}
+
+Extenciones:
+    1. ES7 + React/Redux/React-Native snippet
+    2. ESLint
+    3. Prettier
