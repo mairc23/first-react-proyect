@@ -1,3 +1,4 @@
+https://learn.microsoft.com/es-es/windows/dev-environment/javascript/nodejs-on-windows
 Node se instala por el enlace https://nodejs.org/en/download/package-manager
 Si queremos manejar diferentes versiones en Windows es necesario instalar antes NVM(Node Version Manager) https://github.com/coreybutler/nvm-windows?tab=readme-ov-file
 

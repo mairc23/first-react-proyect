@@ -3,6 +3,9 @@ Suponiendo que ya se tiene instalado una version de nodeJS crear e iniciar un nu
     cd nombre
     npm start
 
+Si no acepta el comando para crear el proyecto
+    npm install creat-react-app
+
 para mas dudas ir al enlace:  https://create-react-app.dev/
 
 Para utilizar react en vs-code:

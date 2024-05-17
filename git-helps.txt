@@ -1,3 +1,7 @@
+GIT - herramienta de versionamientos en local
+GITHUB - repositorio remoto en linea
+CODE SPACES - se levanta vs-code node-js y react en linea
+
 Estos pasos son despues de crear una cuenta en GitHub y haber isntalado git.
 
 Para enlazar el usurio creado en GitHub en la app de git:
