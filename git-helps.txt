@@ -18,3 +18,8 @@ Si se quiere guardar los cambios del proyecto en el repositorio(commit):
     git add . -> si se hizo cambio en varios archivos
     git commit -m "detalles-del-cambio" 
     git push -u origin master
+
+Para remplazar los archivos que cambiaron 
+    git branch -> verifica si estas en la rama correcta (master)
+    git checkout rama-correcta
+    git pull origin master (si en la instalcion de git cambio el nombre master por otro remplazar)
